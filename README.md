@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amutwakil
 - 👀 I’m interested in becoming a full-stack badman.
-- 🌱 I’m currently learning front-end development.
+- 🌱 I’m currently ruby/rails.
 - 📫 Reach me at amutwakil@gmail.com
 
 <!---
